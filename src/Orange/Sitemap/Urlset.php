@@ -1,6 +1,6 @@
 <?php
 
-namespace Sitemap;
+namespace Orange\Sitemap;
 
 class Urlset {
 	

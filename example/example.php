@@ -3,8 +3,8 @@
 require_once __DIR__ . '/../src/Orange/Sitemap/Urlset.php';
 require_once __DIR__ . '/../src/Orange/Sitemap/Index.php';
 
-use \Sitemap\Urlset;
-use \Sitemap\Index;
+use \Orange\Sitemap\Urlset;
+use \Orange\Sitemap\Index;
 
 /* sitemap_pages.xml */
 $index = new Urlset();
